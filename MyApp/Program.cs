@@ -12,6 +12,7 @@ class Program
 
         GreetUser("User");
         Console.WriteLine("Ready to work!");
+        Console.WriteLine("Welcome to our application!");
 
     }
 
